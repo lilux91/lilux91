@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lilux91
 - 👀 I’m interested in  desarrollo
-- 🌱 I’m currently learning ... desarrollo web, fronted.
+- 🌱 I’m currently learning ... desarrollo web, fronted, autodidacta.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
