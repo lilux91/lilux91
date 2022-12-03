@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @lilux91
 - 👀 I’m interested in  desarrollo
+- 👩‍💻 Studying at Academlo
 - 🌱 I’m currently learning ... desarrollo web, fronted, autodidacta.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
