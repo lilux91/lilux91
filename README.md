@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lilux91
 - 👀 I’m interested in  desarrollo
-- 👩‍💻 Studying at Academlo
-- 🌱 I’m currently learning ... web development, frontend, self-taught.
+- 👩‍💻 Studying at Academlo Academy
+- 🌱 I’m currently learning ...  frontend development, self-taught.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
