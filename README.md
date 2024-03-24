@@ -7,8 +7,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 💫 About Me:
-❤ My name is Liliana, I'm a Full Stack web developer @Academlo <br> 
-🔭 I am currently looking for a job<br>🌱 I am currently in the strengthening of knowledge<br>⚡ HTML5<br>⚡CSS3<br>⚡JavaScript<br>⚡React.Js<br>⚡Node.Js
+❤ My name is Liliana, I'm a Full Stack web developer @Academlo and University Technical student in System<br> 
+🔭 I am currently looking for a job<br>🌱 I am currently in the strengthening of knowledge<br>⚡ HTML5<br>⚡CSS3<br>⚡JavaScript<br>⚡React.Js<br>⚡Node.Js ⚡Phyton
 
 
 ## 🌐 Socials:
